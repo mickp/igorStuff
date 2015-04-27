@@ -1,5 +1,6 @@
 # license
 Igor Pro scripts
+
 Copyright (C) 2015 Mick Phillips
 These scripts are free software; you can redistribute them and/or modify
 them under the terms of the GNU General Public License as published by
